@@ -26,7 +26,7 @@
 ## 出题合作方
 目前的出题方包括：
 
-StarkWare，OKEX，CyberLabs，Bitmain Venture
+StarkWare，OKX，CyberLabs，Bitmain Venture
 
 ## 赞助方
-OKEX，Negentropy
+OKX，Negentropy
